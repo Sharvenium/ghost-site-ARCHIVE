@@ -13,6 +13,17 @@ categories:
 tags:
   - life advice
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 You have probably had a moment in your life where you wanted to buy something that would without a doubt change your life for the better and that would allow you to be the next Elon Musk and bring you infinite amounts of joy like that $1000 Productivity Machine of a iPhone.
 
 However, What happened after you bought the iPhone? Did you become a productivity Ninja? Did that new iPhone make you more happy? Are you waking up everyday grateful you have an iPhone 11 Pro instead of a 2 year old iPhone X? The answer is most likely not.

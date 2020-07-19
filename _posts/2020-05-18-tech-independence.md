@@ -13,6 +13,17 @@ categories:
 tags:
   - tech
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 This post was inspired by <a href="http://sivers.org" target="_blank" rel="noreferrer noopener">Derek Sivers</a>.
 Google, Amazon, Microsoft, Apple, Samsung. What do they all have in common? They all have your data.
 

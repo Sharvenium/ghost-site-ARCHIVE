@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5f77091b1d4826f5",
+        "id": "93313adb17b339b2",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2019-10-29-the-value-of-delight.md",
+            "file": "_posts/2019-12-26-minimalism.md",
             "mode": "source"
           }
         }
@@ -72,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2019-10-29-the-value-of-delight.md",
-    "_posts/2019-11-01-digital-minimalism.md",
-    "_posts/2019-10-29-reason-for-blogging.md",
-    "_posts/2019-11-01-the-slotmachine-in-our-pockets.md",
-    "_posts/2017-07-27-welcome.md"
+    "_posts/2019-12-26-minimalism.md",
+    "_posts/2019-12-21-habits.md",
+    "_posts/2019-12-09-stories.md",
+    "_posts/2019-12-21-hack-your-habits.md",
+    "_posts/2019-11-01-digital-minimalism.md"
   ]
 }

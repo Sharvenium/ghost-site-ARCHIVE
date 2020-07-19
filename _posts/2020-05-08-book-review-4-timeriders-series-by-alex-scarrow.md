@@ -13,6 +13,17 @@ categories:
 tags:
   - book notes
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 Rating: 5/5
 Recommendation: READ ALL NINE BOOKS
 ## Intro

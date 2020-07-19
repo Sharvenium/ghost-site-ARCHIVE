@@ -13,6 +13,17 @@ categories:
 tags:
   - life advice
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 Most of the people you know probably used to read tons of books when they were around a decade old, devouring books like Harry Potter, Geronimo Stilton or some other fiction book. However, they **used** to read. More and more people have lost touch with reading whether it is due to schools making reading a chore with the compulsory reading syllabus or the rise of social media, smartphone usage and other forms of content being more readily available than ever before.
 
 ## The Golden Age of Consumption

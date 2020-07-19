@@ -13,6 +13,17 @@ categories:
 tags:
   - personal
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 We are living in history now. I have always wondered how it would feel like to live during a major historical event. I remember binge reading books about the middle-ages, plague and world wars since primary/middle school. 
 
 I was fascinated about how weird life must have been back then, one day you are having fun with your friends at school and then the next day you are stockpiling essentials and building a bunker to prepare for the war or getting enlisted into the military. How surreal must that have been. I remember reading about the Spanish flu and other illnesses such as the black plague and thinking “Wow how terrifying must that have been to hear through rumors about who has the illness and who has succumbed to the invisible enemy.”

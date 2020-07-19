@@ -13,6 +13,17 @@ categories:
 tags:
   - book notes
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 I have seen Outliers by Malcolm Gladwell being quoted many times for its 10,000 hour rule to master a skill and I was intrigued. The Wikipedia description convinced me further. &#8220;In Outliers, Gladwell examines the factors that contribute to high levels of success&#8221;. As a self-help junkie, I jumped right on and finished this book in two days. I was going in with low expectations as I expected it to be a repetition of all the business books and biographies that I have read before. Like Shoe Dog by Phil Knight, Elon Musk by Ashlee Vance or Steve Jobs by Walter Isaacson.
 
 However, I was pleasantly surprised. As the title suggests, it talks about the things that is not written or only briefly mentioned in those books such as Bill Gates gaining unlimited access to a computer in his teenage years in the 1960s, The Beatles playing for over 10,000 hours in a club, Bill Joy having the opportunity to tinker with computers and more. These things are usually mentioned in a single sentence and are brushed off but Malcolm Gladwell explored them in detail and talks about how the experts in their fields practiced alot. This roughly adds up to 10,000 hours before someone becomes an expert.

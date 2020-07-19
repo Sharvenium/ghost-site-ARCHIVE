@@ -13,6 +13,17 @@ categories:
 tags:
   - personal
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 I have fallen into the world of iPhone home screen set-ups. Yes, this is different from my usual posts because I have more free time due to the current lockdown for Covid-19. I have fallen deep into the rabbit hole which is iPhone home screen set-ups. Yes, iPhones are not as customizable as Android phones where you can do anything you want natively. For iPhone it is not as simple but hey its fun messing around with different home screens. 
 
 ## Finding the rabbit hole 

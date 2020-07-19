@@ -12,6 +12,17 @@ tags:
   - life advice
 
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 **The One Percent Rule** is something that I learnt when reading the book Atomic Habits by author James Clear. The One Percent Rule is when you start implementing healthy habits in your life that help to make each day at least one percent better. When you regularly do this, over the course of 3 months you can be **&#8216;twice as good as you were before&#8217;** and over the course of a year be **365% better**.
 
 ![https://images.unsplash.com/photo-1534258936925-c58bed479fcb?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1534258936925-c58bed479fcb?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb) 

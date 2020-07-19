@@ -13,6 +13,17 @@ categories:
 tags:
   - productivity
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 Every other month, Tech Twitter finds a brand new note-taking application that is clearly better than all others. However, about once a year there is a king of Note-Taking applications. Last year it was Notion and this year it is Roam Research.
 
 As an observer of this community, I saw my feed getting clogged with Roam Research tweets by early adopters such as Nat Eliason. I was conflicted. On one hand I was pretty excited that there was this cool new app to play around with and build my second brain.

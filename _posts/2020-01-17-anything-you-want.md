@@ -13,6 +13,17 @@ categories:
 tags:
   - book notes
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 # Thoughts about the book
 So far when I read books about a certain company or about how to start a business, it starts off as a story of a brilliant idea by the founder who later shared it with a group of friends in a small apartment or coffee shop, this idea later funded by the local billionaire or friend starts to grow rapidly and facing tons of problems before it eventually becomes a household name like Twitter, Amazon and Netflix. However this book was different.
 

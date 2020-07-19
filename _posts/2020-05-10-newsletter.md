@@ -13,6 +13,17 @@ categories:
 tags:
   - personal
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 I have recently started my weekly email newsletter called &#8220;Sunday Stories&#8221; which you can sign up for and view previous issues [here.](http://sharvenium.substack.com)
 Through the email newsletter I want to be able to share useful insights and links to interesting content that I consumed that week. Although, I have tried implementing these into my blog posts, I feel that they would be more suited for an email newsletter.
 

@@ -13,6 +13,17 @@ categories:
 tags:
   - personal
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 Well Covid-19 has been spreading at a much faster rate now. Although numbers are irrelevant due to the limitations of testing kits, countries hiding numbers, number of mild carriers, number of asymptomatic and so much more. Here are today&#8217;s numbers (31st March 2020, 2AM EST)
 
 Confirmed Cases: 785,807

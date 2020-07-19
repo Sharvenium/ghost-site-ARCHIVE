@@ -11,6 +11,17 @@ categories:
 tags:
 - tech
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 
 For the first time, I am writing this blog post in my local note-taking app. I used to use wordpress to write my blogs and _"design"_ my site using cool free themes that I find on the internet. But today, I have decided to take my first voyage into being tech independent and decided to create the entire site myself with help from the Jekyll static site builder. 
 

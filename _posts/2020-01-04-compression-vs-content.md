@@ -12,6 +12,17 @@ tags:
   - Productivity
 
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 <p id="389f1a5c-1907-4bde-aaaf-21c24cac8b46" class="">
   Compression vs Context is something that I stumbled upon when reading a Praxis Blog Post about Progressive Summarization.
 </p>

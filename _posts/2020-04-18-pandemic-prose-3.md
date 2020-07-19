@@ -11,6 +11,17 @@ image: /wp-content/uploads/2020/04/img_0449.jpg
 tags:
   - personal
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 Yes, I know it has only been a few days since the previous one but here I am again. I will now be structuring these newsletter-esque posts due to popular demand. By that I mean I suggested that as this blog has zero readers. I will start off my talking about why I don’t bother checking the daily stats anymore, followed by how I think this Pandemic will affect the future and lastly ending of with a personal touch by ranting about how screwed my quararoutine is. 
 
 ## Why I don’t care about the numbers anymore

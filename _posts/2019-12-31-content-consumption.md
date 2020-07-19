@@ -12,6 +12,17 @@ tags:
   - Creative
 
 ---
+---
+layout: post
+current: post
+cover: assets/images/time.jpg
+navigation: True
+title: Make Time by Jake Knapp and John Zeratsky 
+date: 2019-11-06T16:00:55+08:00
+tags: BookNotes
+class: post-template
+subclass: 'post'
+---
 The idea for this blog post came from the realization that I like most other people **consume a lot of content daily**. I listen to audiobooks and podcasts, watch YouTube videos and documentaries, read blog posts, books and newsletters almost every single day.
 
 A study conducted about a decade ago shows that **the average America consumes about a hundred thousand words a day**. This number has certainly increased over the decade due to the rise of social media platforms, smartphones where we can access any information that we want with a few clicks and gestures.
