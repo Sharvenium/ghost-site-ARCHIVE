@@ -1,25 +1,11 @@
 ---
-id: 889
-title: Content Consumption
-date: 2019-12-31T14:04:36+08:00
-author: Sharvenium
-layout: post
-cover: assets/images/books.jpg
-guid: https://sharvenium.com/?p=889
-permalink: /content-consumption/
-image: /wp-content/uploads/2019/12/batch-books-document-education-357514-300x200.jpg
-tags:
-  - Creative
-
----
----
 layout: post
 current: post
-cover: assets/images/time.jpg
+cover: assets/images/books.jpg
 navigation: True
-title: Make Time by Jake Knapp and John Zeratsky 
-date: 2019-11-06T16:00:55+08:00
-tags: BookNotes
+title: Content Consumption
+date: 2019-12-31T14:04:36+08:00
+tags: Creative
 class: post-template
 subclass: 'post'
 ---

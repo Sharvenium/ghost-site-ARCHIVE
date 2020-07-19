@@ -1,25 +1,10 @@
 ---
-id: 905
-title: 'Book Review #3 &#8211; Anything You Want by Derek Sivers'
-date: 2020-01-17T19:08:12+08:00
-author: Sharvenium
-layout: post
-guid: https://sharvenium.com/?p=905
-cover: assets/images/cd.jpg
-permalink: /anything-you-want/
-image: /wp-content/uploads/2020/01/white-compact-disc-93388-1-300x200.jpg
-categories:
-  - Book Review
-tags:
-  - book notes
----
----
 layout: post
 current: post
-cover: assets/images/time.jpg
+cover: assets/images/cd.jpg
 navigation: True
-title: Make Time by Jake Knapp and John Zeratsky 
-date: 2019-11-06T16:00:55+08:00
+title: Anything You Want by Derek Sivers
+date: 2020-01-17T19:08:12+08:00
 tags: BookNotes
 class: post-template
 subclass: 'post'

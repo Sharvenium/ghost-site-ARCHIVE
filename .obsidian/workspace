@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2019-12-26-minimalism.md",
+            "file": "_posts/2020-04-18-pandemic3.md",
             "mode": "source"
           }
         }
@@ -46,7 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 109
   },
   "right": {
     "id": "a02f20a35f7e36b7",
@@ -72,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2019-12-26-minimalism.md",
-    "_posts/2019-12-21-habits.md",
-    "_posts/2019-12-09-stories.md",
-    "_posts/2019-12-21-hack-your-habits.md",
-    "_posts/2019-11-01-digital-minimalism.md"
+    "_posts/2020-04-18-pandemic-prose-3.md",
+    "_posts/2020-04-16-home-screens.md",
+    "_posts/2020-04-15-pandemic2.md",
+    "_posts/2020-04-15-friction.md",
+    "_posts/2020-03-31-pandemic1.md"
   ]
 }
