@@ -71,7 +71,7 @@ username: sharvenium
 repo: sharvenium.github.io
 branch: master
 relative_source: ../
-destination: ../
+destination: ../_site
 production_url:  https://sharvenium.github.io/
 source_url:  https://github.com/sharvenium/sharvenium.github.io
 

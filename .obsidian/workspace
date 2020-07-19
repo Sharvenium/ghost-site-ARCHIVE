@@ -1,0 +1,81 @@
+{
+  "main": {
+    "id": "2f4fd41de28b6c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f77091b1d4826f5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2019-10-29-the-value-of-delight.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea7f23db15d6058c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c71c7f53793e08ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0be572d5a1c63f07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb32f88e6d7ef045",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a02f20a35f7e36b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2fe7e452fc3dc2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b3318aa838e8f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_posts/2019-10-29-the-value-of-delight.md",
+    "_posts/2019-11-01-digital-minimalism.md",
+    "_posts/2019-10-29-reason-for-blogging.md",
+    "_posts/2019-11-01-the-slotmachine-in-our-pockets.md",
+    "_posts/2017-07-27-welcome.md"
+  ]
+}

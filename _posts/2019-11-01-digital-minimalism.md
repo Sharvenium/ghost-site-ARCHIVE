@@ -1,15 +1,13 @@
 ---
-id: 663
-title: 'Book Review #1 &#8211; Digital Minimalism by Cal Newport'
-date: 2019-11-01T15:58:51+08:00
-author: Sharvenium
 layout: post
+current: post
 cover: assets/images/iphone.jpg
-guid: https://sharvenium.com/?p=663
-permalink: /the-slotmachine-in-our-pockets/
-image: /wp-content/uploads/2019/11/pexels-photo-607812-300x200.jpeg
-tags:
-  - Book Notes
+navigation: True
+title: Digital Minimalism by Cal Newport
+date: 2019-11-01T15:58:51+08:00
+tags: Book Notes
+class: post-template
+subclass: 'post'
 ---
 Have you ever realised that our mobile phones are like slotmachines in our pockets. The moment you open your phone, all your apps are inviting you to click on them due to the colourful icons and bright red notifications so that you spend more time using their service.
 
