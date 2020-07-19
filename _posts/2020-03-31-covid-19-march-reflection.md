@@ -1,0 +1,48 @@
+---
+id: 941
+title: 'Pandemic Prose #1'
+date: 2020-03-31T17:08:56+08:00
+author: Sharvenium
+layout: post
+guid: https://sharvenium.com/?p=941
+permalink: /covid-19-march-reflection/
+cover: assets/images/covid.jpg
+image: /wp-content/uploads/2020/03/coronavirus-statistics-on-screen-3970330-1870x1246.jpg
+categories:
+  - Uncategorized
+tags:
+  - personal
+---
+Well Covid-19 has been spreading at a much faster rate now. Although numbers are irrelevant due to the limitations of testing kits, countries hiding numbers, number of mild carriers, number of asymptomatic and so much more. Here are today&#8217;s numbers (31st March 2020, 2AM EST)
+
+Confirmed Cases: 785,807
+
+Confirmed Deaths: 37,820
+
+Recovered: 165,659
+
+Hopefully this can help you the reader to picture the situation that we all are in right now. Maybe you are thinking &#8220;Wow that was the peak and now we are so much better at controlling the spread&#8221;, or more likely &#8220;We were not prepared for the storm that was about to come&#8230;&#8221;
+
+## The Novel Corona Virus Chapter
+
+I have been following the development of this virus since late-January ever since I heard of it from tech/investor twitter. People were panicking, buying more than necessary supplies and self-isolating themselves. I assumed that they were just overreacting and carried on with my life. Then this &#8220;Wuhan Novel-Corona Virus&#8221; news started to spread and soon my teachers were talking about their experiences of what was thought to be a similar epidemic in 2003, SARS AKA Severe Acute-Respiratory Syndrome. I went home that day and researched about this new unknown virus and SARS and saw it on the news that night. 💩 was getting real.
+
+I went back to twitter and checked what was going on. Then I fell into the rabbit hole of watching videos about this. Hospitals in Wuhan were getting crowded, people were falling, Xenophobia against Chinese people was increasing, people were eating bats etc. My anxiety skyrocketed until I found out that this was similar to the Flu or so I thought
+
+## The &#8220;Just the Flu&#8221; Chapter
+
+I liked this narrative as it was a way of convincing myself that this was not a big deal and that I did not need to be paranoid. (Check out [this](https://sharvenium.com/the-stories-we-tell-ourselves/) for a more detailed explanation on the stories we tell ourselves). The &#8220;Just the Flu&#8221; Chapter was the phase where I ignored the virus and all its news that closely because I believed that it was not going to be that severe due to the virus being more similar to the common cold than the previous similar epidemic (SARS). However, I still maintained a better standard of hygiene than usual &#8216;just in case&#8217;. Then the virus started to spread more rapidly and we soon learnt of how this virus was vastly different from previous Epidemics and Pandemics.
+
+## The Pandemic Chapter
+
+So here we are in this Pandemic Chapter of this virus. Nations all around the world are going into lock down, implementing physical distancing, closing schools and implementing work from home policies to contain the spread of this virus. We have learnt that the virus has a fatality rate of around 5% with the elderly being the ones who are more severely impacted by this outbreak, children are not showing any symptoms although they have the virus, there are more asymptomatic carriers than previous estimates which call for lock downs and quarantines. Everyone is now alert and educated about this virus. Europe has become a hotspot for the pandemic with Italy, Spain and France having the highest amounts of deaths due to the corona virus. UK&#8217;s Prime Minister has tested positive after he told press that he was confidently shaking hands with corona virus patients and that herd immunity was the best way to control the spread. Now, the UK is under lock down.
+
+The global markets are crashing due to speculation and fears concerning the uncertainty of this new virus. US Companies are getting helped by the government to rise again with President Trump announcing the largest US Stimulus in history ($2,000,000,000,000).The bear market is probably going to exist for a while. (which has now turned back into a bull market due to the stimulus package). This is certainly a crazy time to be alive.
+
+## Reflection
+
+Maybe we will look back at this Pandemic and think that the world has certainly gotten a lot better with work from home, online education, less pollution and better better hygiene practices. Perhaps this will spark the roaring 20s once again. Maybe this we will turn our world upside down . Whatever it may be we are living in the now. There&#8217;s no way I can predict the future sitting here on my cool 5 year old office chair, typing this on a wireless keyboard using my windows laptop with a flask of hot water nearby to prevent the phlegm from taking over my throat.
+
+You can contact me @sharvenium on twitter or <sharvenium@gmail.com>
+
+Thank you : )

@@ -1,0 +1,42 @@
+---
+id: 1
+cover: assets/images/typewriter.jpg
+title: Why I decided to start a Blog
+date: 2019-10-29T12:00:25+08:00
+author: Sharvenium
+layout: post
+guid: http://sharvenium.com//?p=1
+permalink: /reason-for-blogging/
+image: /wp-content/uploads/2019/10/blogging-blur-communication-261662-300x200.jpg
+tags:
+  - Personal
+
+---
+Hey friends,
+Welcome to my new blog. My name is the Sharvenium and I will be writing blogs at least once a week from today to share epic ideas. Having a website where you can share your thoughts is just epic and so cool. So, I will now be sharing why I decided to start blogging.
+
+<!--more-->
+
+&nbsp;
+
+<blockquote class="wp-block-quote">
+  <p>
+    The idea of setting up a personal blog has been swirling around in my head for some time, but I’ve never before managed to shake the nagging suspicion that to write about my own experiences, ideas, life etc, would be unbelievably narcissistic and should therefore be avoided at all costs.
+  </p>
+  
+  <cite> I would like to start off by sharing a good introductory paragraph from <a href="https://aliabdaal.com/fear-of-blogging/">Ali Abdaal&#8217;s blog</a> which summaries my thoughts about starting a personal blog</cite>
+</blockquote>
+
+Firstly, I decided to blog as I wanted a platform where I could share my ideas on tech products, productivity tips and more epic stuff, and I felt that starting my own blog is the best way to achieve that. I decided to invest in this website as I felt that even if only my family and friends read this blog, I would be able to improve my writing skills and learn more about web development, design and marketing through this.
+
+Secondly, blogs are just so cool. It&#8217;s like owning a part of the internet like owning a plot of land in real life. How crazy is that&#8230;
+
+Lastly, I decided to write my own blog after reading other personal blogs from people such as [Ali Abdaal](http://aliabdaal.com), [Matt D&#8217;Avella](https://mattdavella.com/), [Thomas Frank](http://collegeinfogeek.com), [Cal Newport](https://www.calnewport.com/) and so many more epic people.
+
+I hope that this process of blogging can help me document my ideas and share useful tips and ideas with you, the cool people that read my blog.
+
+Stay Epic,
+
+Sharvenium
+
+<!--EndFragment-->

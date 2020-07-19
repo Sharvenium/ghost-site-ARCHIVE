@@ -1,0 +1,50 @@
+---
+id: 861
+title: Hack Your Habits
+date: 2019-12-21T10:55:09+08:00
+author: Sharvenium
+layout: post
+cover: assets/images/yoga.jpg
+guid: https://sharvenium.com/?p=861
+permalink: /hack-your-habits/
+image: /wp-content/uploads/2019/12/book-chapter-six-5834-300x200.jpg
+tags:
+  - Life Advice
+
+---
+## What are Habits?
+According to Google, a habit is a routine of behavior that is repeated regularly and tends to occur subconsciously. There have been many books written extensively about this topic. Personally I have read The Power of Habit by Charles Duhigg and Atomic Habits by James Clear. Both books have resonated with me from the methods of making Habits more pleasant from James Clear to the Cue, Routine and Reward from Charles Duhigg.
+
+So now the question is why bother learning how to form healthy habits and break negative habits? Habits helps us to do things without spending much mental effort. For example, when you make going to the gym on Friday a habit, you probably won&#8217;t have to spend much time convincing yourself that going to the gym is good for you as you have done it before regularly. Therefore, habits help us to do things that we want to do like reading a book a week more efficiently with much less resistance.
+
+## Cue, Routine Reward
+
+Charles Duhigg wrote about this &#8220;Cue, Routine, Reward&#8221; Framework in his book &#8220;The Power of Habit&#8221;. For example, let&#8217;s breakdown the negative habit of binge watching YouTube after a long day of work or school. The &#8216;Cue&#8217; in this scenario is that you are tired after a long day of concentrated work. The &#8216;Routine&#8217; is that you open the YouTube App on your phone and watch random YouTube videos that add negligible or no value to your life. The &#8216;Reward&#8217; is that you receive is that you become more &#8216;energized&#8217; and &#8216;fresh&#8217; due to the dopamine released when you watch videos of cats trying to get out of an invisible maze.
+
+## Modify Habits
+
+Now that we understand how these habits are formed and why, how can we modify them to add value in our lives. The method Charles Duhigg recommends is simple, keep the cue, modify the routine and reap better rewards. So in this case, when we come home from work or school feeling tired, open the youtube app and we would instead watch a documentary of your interest whether it is about [Elon Musk](https://www.youtube.com/watch?v=mh45igK4Esw&list=PLS_2FTjwgiCgbNnTk6dEHqzcWc8dyOgIt&index=4&t=0s), [Albert Einstein](https://www.youtube.com/watch?v=Uvpw6Jh1WGQ&list=PLS_2FTjwgiCgbNnTk6dEHqzcWc8dyOgIt&index=4) or Meditation
+
+## Before → After
+
+**Cue:** Tired after long day → Tired after long day
+
+**Routine :** YT Videos         → Documentaries
+
+**Reward  :** Dopamine hits → Knowledge
+
+## Conclusion
+
+This brings me to the end of this blog post. If you are interested in this topic you can checkout the further reading list below.
+
+Stay Epic,
+
+Sharvenium
+
+## Further Readings 😀
+
+[The Power Of Habits Book Review](https://www.youtube.com/watch?v=q84QXWpHOiM)
+
+[The Power Of Habits by Charles Duhigg](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
+
+[Atomic Habits by James Clear](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)

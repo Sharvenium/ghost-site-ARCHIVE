@@ -1,0 +1,61 @@
+---
+id: 901
+title: The One Percent Rule
+date: 2020-01-11T15:32:45+08:00
+author: Sharvenium
+layout: post
+guid: https://sharvenium.com/?p=901
+cover: assets/images/mountainnight.jpg
+permalink: /the-one-percent-rule/
+image: /wp-content/uploads/2020/01/adventure-cold-daylight-fog-291732-300x201.jpg
+tags:
+  - life advice
+
+---
+**The One Percent Rule** is something that I learnt when reading the book Atomic Habits by author James Clear. The One Percent Rule is when you start implementing healthy habits in your life that help to make each day at least one percent better. When you regularly do this, over the course of 3 months you can be **&#8216;twice as good as you were before&#8217;** and over the course of a year be **365% better**.
+
+![https://images.unsplash.com/photo-1534258936925-c58bed479fcb?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1534258936925-c58bed479fcb?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb) 
+
+This idea is simple because of the compounding effect that habit building has.
+
+When you start to workout, you realize that you need to drink more water to be healthy.
+
++1%
+
+When you start drinking more water you realize that all that energy drinks and food takeaways you eat daily isn&#8217;t good for you.
+
++1%
+
+This leads you to sleep more and have a better quality sleep by reducing devices nearing bedtime.
+
++1%
+
+When you do not have your phone near your bed anymore, you decide to read a book on your kindle while dimming the lights half an hour before sleeping each day.
+
++1%
+
+This leads you to&#8230;
+
+You probably see where I am going with this idea. You don&#8217;t have to be twice as healthy as you were yesterday, all you need to be is 1% better over the course of a year.
+
+Also you will feel much better due to the lessened workload and stress you are putting on yourself while you are trying to improve one percent instead of 100%.
+
+![https://images.unsplash.com/photo-1505739616034-1fbcb08941a2?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1505739616034-1fbcb08941a2?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb) 
+
+Maybe try this today, start by doing something small that will have a compounding effect like making your bed every morning or by exercising daily.
+
+This brings me to the end of this relatively short blog post. I have linked some relevant and useful links about this topic below which are more in depth.
+
+Stay Epic,
+
+Sharvenium
+
+### Further Readings
+
+[Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) &#8211; Book about Habits by James Clear (I highly recommend that you read this)
+
+[The One Percent Rule](https://jamesclear.com/the-1-percent-rule) &#8211; A blog post by James Clear
+
+[The Two Day Rule](https://www.youtube.com/watch?v=bfLHTLQZ5nc) &#8211; A YouTube video about how to make habits consistent
+
+[Hack Your Habits](https://sharvenium.com/hack-your-habits/) &#8211; A blog post by me about how to hack your habits

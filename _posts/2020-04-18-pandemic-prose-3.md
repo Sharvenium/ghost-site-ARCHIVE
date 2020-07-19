@@ -1,0 +1,44 @@
+---
+id: 976
+title: 'Pandemic Prose #3'
+date: 2020-04-18T21:40:26+08:00
+author: Sharvenium
+layout: post
+guid: https://sharvenium.com/?p=976
+permalink: /pandemic-prose-3/
+cover: assets/images/pen2.jpg
+image: /wp-content/uploads/2020/04/img_0449.jpg
+tags:
+  - personal
+---
+Yes, I know it has only been a few days since the previous one but here I am again. I will now be structuring these newsletter-esque posts due to popular demand. By that I mean I suggested that as this blog has zero readers. I will start off my talking about why I don’t bother checking the daily stats anymore, followed by how I think this Pandemic will affect the future and lastly ending of with a personal touch by ranting about how screwed my quararoutine is. 
+
+## Why I don’t care about the numbers anymore
+
+I have stopped being obsessed with numbers because it clearly isn’t representative of the actual number of infections. Reports from Iceland have shown that when they tested a significant amount of the population, over 50% of those that tested positive for Covid-19 did not show any signs of symptoms at all. This is worrying. This combined with the 2 week transmission period for this virus means that the numbers we are seeing now were most likely the numbers we had 2 weeks ago. This number is also not inclusive of those who are not being tested. Hopefully the measures taken by different nations no matter how ineffective and pointless they are will help to slow down the number of infections and not strain medical systems around the world.
+
+## The blur at the end of the tunnel
+
+Well experts have said that this virus could be spreading until we find a vaccine in 2021 which is worrying as this would affect all areas of life. This might mean that we would have to switch on and off lockdowns once cases start increasing again. This is deeply problematic as once we start to feel that the cases are minimal we would continue with life as normal albeit with better hygiene practices.
+
+This can lead to a second wave. All Pandemics in recent history have had a second wave. Think of the Spanish Flu or the H1N1 Influenza virus. The Spanish Flu experienced a second wave which was more deadly as the virus had mutated. The H1N1 Influenza had a second wave which was almost 5 times more deadly than the first both in terms of infections and deaths. Thus, we should brace ourselves mentally and physically for the inevitable second wave. Hopefully with modern technology, public awareness and exemplar leadership we can fight the second wave and come out stronger than ever before. 
+
+Well what next? There can be a third wave or a fourth. Who knows but one thing is for certain. And that is that hopefully this virus can help as a human race to reflect on how our resources are being allocated, what hygiene practices we are maintaining etc. Hopefully there’s a light at the end of the tunnel but for now that remains a blur. We are living in a critical part of history and we can do our part no matter how small that is. 
+
+## My quaranroutine is screwed
+
+Yes I fancy myself a bit of a poet who has ingenious word play. I read this <a rel="noreferrer noopener" href="https://markmanson.net/newsletters" target="_blank">newsletter</a> from author Mark Manson recently and it stuck with me. It made me realize how screwed my quaranroutine is. I wake up 10 minutes before my online classes begin at 7.50am . This is because they are unfortunately video calls for some lessons and I have to check in using a google form. However I believe that I can automate this process in a few day as the questions for morning reflections seem to be rotating. 
+
+After quickly doing my morning businesses, I switch on my laptop with its sick desk set-up and then start my day. My breakfast and lunch is irregular as the breaks in our timetable are very weird. They are usually either in between breakfast and lunch or after noon. This leads to me eating whenever I have a free block of time. 
+
+I spend the whole day in front of my computer taking the occasional break to flex my muscles by doing some push-ups which I learnt how to do quite recently. I have not left the house once in the past ten days and I have been going crazy with the lack of normalcy in my life. I finish my home-based learning in front of the computer at around 3. I then proceed to productively procrastinate on tasks and write articles such as this. Then I end my day at midnight to repeat the process the next day by waking up at 7.40am.
+
+I really need to sort my life out. 
+
+## Conclusion
+
+This brings me the end of this Pandemic Prose journal. Hopefully you are taking care and being sane staying indoors. You can tweet me at @sharvenium on twitter or send me a email at sharvenium@gmail.com
+
+Stay Epic, 
+
+Sharvenium

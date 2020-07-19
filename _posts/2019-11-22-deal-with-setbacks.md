@@ -1,0 +1,36 @@
+---
+id: 768
+title: Deal with Setbacks
+date: 2019-11-22T14:01:18+08:00
+author: Sharvenium
+layout: post
+cover: assets/images/sad.jpg
+guid: https://sharvenium.com/?p=768
+permalink: /deal-with-setbacks/
+image: /wp-content/uploads/2019/11/adult-blur-books-close-up-261909-scaled.jpg
+tags:
+  - Life Advice
+  - Productivity
+
+---
+Imagine you are the person who is known for your academic achievements and you do poorly for your exam&#8230; How do you deal with this&#8230;
+
+<!--more-->
+
+I recently read a blog post by Mark Mason which was titled [Diversify Your Identity](https://markmanson.net/diversify-your-identity). I realised that this is a great way of dealing with setbacks and disappointment when I read [Dr Ali&#8217;s blog post](https://aliabdaal.com/bad-grades/) of the same topic.
+
+For example, if someone is only known for their academic achievements and success, when they do poorly for an exam, they will be absolutely devastated. It might seem like their entire world just ended.
+
+Well, this is because I have experienced this before. A few years ago, I remember when I failed one of my tests at school. Although it was only a class test, I was devastated about it for more than a year and vowed to myself that I would never tell anyone about it. Why? This was because my entire identity was linked to doing well in school tests and if people found out that I failed that class test, my whole identity that I had been building since the start of my education journey would be lost.
+
+However, reflecting back on it now, I understand what kind of impact solely focusing your identity on one thing would have. Luckily, I decided to learn other hobbies and skills such as photography, coding and reading books. This helped to lessen the grief that I got when I did poorly in future exams and tests.
+
+So going back to the blog post Mark Mason wrote&#8230; He wrote about how you can lessen the emotions that comes with setbacks in life. He wrote that instead of being just known as that dude who does well in exams, you can be known as the guy who plays the guitar, piano, writes a weekly blog, runs a YouTube Channel, has a successful start-up and does well in his exams. When you diversify your identity, you lessen the grief that comes when you unexpectedly experience a setback. So here&#8217;s a quote from Tim Ferris that was in the post.
+
+> When you have money, it’s always smart to diversify your investments. That way if one of them goes south, you don’t lose everything. It’s also smart to diversify your identity, to invest your self-esteem and what you care about into a variety of different areas — business, social life, relationships, philanthropy, athletics — so that when one goes south, you’re not completely screwed over and emotionally wrecked
+
+Hopefully, you have found this article useful in dealing with your setbacks in life. A little diversity doesn&#8217;t do any harm 😀
+
+Stay Epic,
+
+Sharvenium

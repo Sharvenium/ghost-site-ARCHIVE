@@ -1,0 +1,36 @@
+---
+id: 955
+title: 'Pandemic Prose #2'
+date: 2020-04-15T14:29:55+08:00
+author: Sharvenium
+layout: post
+guid: https://sharvenium.com/?p=955
+cover: assets/images/pen.jpg
+permalink: /pandemicprose1/
+image: /wp-content/uploads/2020/04/img_0415-1870x1403.jpg
+categories:
+  - Personal
+tags:
+  - personal
+---
+We are living in history now. I have always wondered how it would feel like to live during a major historical event. I remember binge reading books about the middle-ages, plague and world wars since primary/middle school. 
+
+I was fascinated about how weird life must have been back then, one day you are having fun with your friends at school and then the next day you are stockpiling essentials and building a bunker to prepare for the war or getting enlisted into the military. How surreal must that have been. I remember reading about the Spanish flu and other illnesses such as the black plague and thinking “Wow how terrifying must that have been to hear through rumors about who has the illness and who has succumbed to the invisible enemy.”
+
+And now we are living through that nightmare. As mentioned in my previous pandemic prose post, I am pretty sure I heard ‘wuhan virus’ being mentioned in the news in early January. I ignored it then and thought that it was just some rare illness that a few unfortunate people have gotten. But that was not the case. It was spreading fast, exponentially. I started to notice more and more tweets in my feed about this new virus in the later half of January but once again scrolled through them to focus on the content and ideas that I wanted to consume on Twitter. This went on until one day my teacher talked about this virus and her experience in the SARS epidemic. Her stories about one of her students contracting the virus was pretty eye-opening and kept me awake that night. 
+
+Then I fell into the rabbit hole of reading about this virus that originated in Wuhan, China and saw pictures of people eating bats which I do not recomend anyone to watch. This soon became worse when the first case on Singapore was confirmed on the 23rd of January. Paranoia sinked in and I became prettified and more hygienic on my morning commute than ever before. I then decided to calm myself using the stoic practice of weaving our own narrative. I told myself that since I am young and pretty healthy I won’t be that affected by this virus. Yes I know that I can spread to those around me so I also told myself that as my family and friends are all relatively young and healthy we won’t be that affected by this. This calmed me down but I still maintained my new hygiene practices because I knew that they are obviously good for me. This narrative continued but I decided be ‘alert not anxious’ until the virus spread to other countries outside of China 
+
+Now, I sit on my old office chair typing this on my amazing K380 keyboard listening to the sound of my obnoxiously loud ceiling fan writing this blog post on my iPad. 
+
+This has just been a crazy year. Hopefully you the probably first (and most likely last) reader to read this is living in a better time where the curve is flattened and the virus just magically disappears in the summer like what US President Donald Trump mentioned in a early press briefing. 
+
+My life is pretty good right now compared to other less fortunate people who can’t work or attend online home-based learning lessons at home. I am fortunate to live in a pretty spacious bedroom where I have a sick desk set-up, iPad set-up and aircondition. I was actually looking forward to HBL (Home-Based Learning). I thought that it would be fun to listen to teachers talking about stuff on one half of my enourmous monitor while browsing the internet n the other half. But no. This is pretty depressing not talking to classmates or listening to funny jokes by the class joker. I would not consider myself an extroverted person but I still find siting at home by myself tiring and depressing because of the huge decrease in social contact. Humans are social beings whether you like to talk to everyone or hide in your shell 21 feet under the ground. This is pretty sad to have home-based learning. I muss school already and it hasn’t even been a full week yet. Enough of me ranting about how HBL and this virus sucks. We are all playing our part in one way or another and I guess this is one way I am playing my part in this pandemic. I woul rather have depressing HBL and be sad for a couple of weeks siting in my soulless room than have more people contract the virus and possibly even die. 
+
+Hopefully, I would be able to continue this Pandemic Prose. This was inspired by a Twitter post where I saw that people would look back on this crisis in a couple fo decades and think how life must have been. If you are in the future after this thing blows over, hi. Sorry for this messy article about this stuff. 
+
+If you are in the present in the middle of all this, contact me at sharvenium@gmail.com or @sharvenium on twitter
+
+P.s Stay physically distant and may the odds be ever in your favour
+
+P.p.s that sounded more dark than I meant it to be
