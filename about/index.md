@@ -8,19 +8,10 @@ class: page-template
 subclass: 'post page'
 ---
 
-<img src="profilepic.png" alt="profilepic">
+Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
 
-<p style="text-align:center;">Hey there, welcome to my corner on the internet</p>
+> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
 
-## What I'm working on
+If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
 
-1. 🎓 I'm a student studying in Singapore 
-2. 🎥 I occasionally upload videos on my [YouTube Channel ](https://www.youtube.com/channel/UC-rurif7Y01qNfH2-5N7ZzQ)about tech, books and other cool nerdy stuff.
-3. 👨‍💻 On this website, I post articles at least once a week about life advice, productivity, book reviews and other creative stuff that I discover on the internet. 
-4. 📨 I also have a newsletter called "Sunday Stories" over at [substack](https://sharvenium.substack.com) where I share _things that I learnt that week_ and _interesting links that I found_. 
-
-## Get in Touch
-
-1. 💌 You can send an email to me at sharvenium@sharvenium.com where I answer every email
-
-2. 🐦 You can contact me via [@Sharvenium](https://www.twitter.com/sharvenium) on twitter and most social media platforms.
+If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
