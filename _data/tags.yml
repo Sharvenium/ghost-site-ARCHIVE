@@ -14,4 +14,8 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+BookNotes:
+  name: BookNotes
+  description: A collection of my Book Notes
+  cover: False
 
