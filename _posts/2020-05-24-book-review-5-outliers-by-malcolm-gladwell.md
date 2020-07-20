@@ -1,25 +1,10 @@
 ---
-id: 1057
-title: 'Book Review #5 &#8211; Outliers by Malcolm Gladwell'
-date: 2020-05-24T14:22:53+08:00
-author: Sharvenium
-layout: post
-guid: https://sharvenium.com/?p=1057
-cover: assets/images/achievement.jpg
-permalink: /book-review-5-outliers-by-malcolm-gladwell/
-image: /wp-content/uploads/2020/05/achievement-confident-free-freedom-69451-1870x1403.jpg
-categories:
-  - Book Review
-tags:
-  - book notes
----
----
 layout: post
 current: post
-cover: assets/images/time.jpg
+cover: assets/images/achievement.jpg
 navigation: True
-title: Make Time by Jake Knapp and John Zeratsky 
-date: 2019-11-06T16:00:55+08:00
+title: Outliers by Malcolm Gladwell
+date: 2020-05-24T14:22:53+08:00
 tags: BookNotes
 class: post-template
 subclass: 'post'

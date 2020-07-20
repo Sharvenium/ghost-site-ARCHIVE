@@ -1,26 +1,11 @@
 ---
-id: 1019
-title: My Journey with Roam Research
-date: 2020-05-11T15:43:40+08:00
-author: Sharvenium
-layout: post
-guid: https://sharvenium.com/?p=1019
-permalink: /my-journey-with-roam-research/
-cover: assets/images/rome.jpg
-image: /wp-content/uploads/2020/05/colosseum-italy-1797161-1870x1052.jpg
-categories:
-  - Productivity
-tags:
-  - productivity
----
----
 layout: post
 current: post
-cover: assets/images/time.jpg
+cover: assets/images/rome.jpg
 navigation: True
-title: Make Time by Jake Knapp and John Zeratsky 
-date: 2019-11-06T16:00:55+08:00
-tags: BookNotes
+title: My Journey with Roam Research
+date: 2020-05-11T15:43:40+08:00
+tags: Productivity
 class: post-template
 subclass: 'post'
 ---
@@ -46,6 +31,6 @@ Turns out Roam is not the only life wiki available. There are a tons of open sou
 
 I decided to start with TiddlyWiki and I will update my journey along the way with blog posts and YouTube videos about what I have learned and how to download this software. TiddlyWiki is quite difficult to understand at first since all the information is in blog posts and google group discussions instead of more visual platforms such as YouTube.
 
-Follow me @Sharvenium on twitter for updates and email email.sharvenium@gmail.com if you have anything to say. =)
+Follow me @Sharvenium on twitter for updates and email sharvenium@sharvenium.com if you have anything to say. =)
 
 You can also sign up for my new email newsletter over at sharvenium.substack.com 😀

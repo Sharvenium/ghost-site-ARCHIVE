@@ -1,26 +1,11 @@
 ---
-id: 1052
-title: Tech Independence
-date: 2020-05-18T16:37:34+08:00
-author: Sharvenium
-layout: post
-guid: https://sharvenium.com/?p=1052
-cover: assets/images/coding.jpg
-permalink: /tech-independence/
-image: /wp-content/uploads/2020/05/coding-computer-data-depth-of-field-577585-1.jpg
-categories:
-  - Personal
-tags:
-  - tech
----
----
 layout: post
 current: post
-cover: assets/images/time.jpg
+cover: assets/images/coding.jpg
 navigation: True
-title: Make Time by Jake Knapp and John Zeratsky 
-date: 2019-11-06T16:00:55+08:00
-tags: BookNotes
+title: Tech Independence
+date: 2020-05-18T16:37:34+08:00
+tags: Tech
 class: post-template
 subclass: 'post'
 ---

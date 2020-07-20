@@ -1,24 +1,11 @@
 ---
-id: 1058
-title: Sharvenium.com V1.9
-date: 2020-07-07T14:22:53+08:00
-author: Sharvenium
-layout: post
-permalink: /1.9/
-cover: assets/images/website.jpg
-categories:
-  - Personal
-tags:
-- tech
----
----
 layout: post
 current: post
-cover: assets/images/time.jpg
+cover: assets/images/website.jpg
 navigation: True
-title: Make Time by Jake Knapp and John Zeratsky 
-date: 2019-11-06T16:00:55+08:00
-tags: BookNotes
+title: Sharvenium.com V1.9
+date: 2020-07-07T14:22:53+08:00
+tags: Tech
 class: post-template
 subclass: 'post'
 ---

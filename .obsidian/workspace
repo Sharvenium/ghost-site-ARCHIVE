@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "_posts/2020-04-18-pandemic3.md",
-            "mode": "source"
+            "file": "assets/images/profilepic.png"
           }
         }
       }
@@ -46,7 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 109
+    "width": 462
   },
   "right": {
     "id": "a02f20a35f7e36b7",
@@ -72,10 +71,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-04-18-pandemic-prose-3.md",
-    "_posts/2020-04-16-home-screens.md",
-    "_posts/2020-04-15-pandemic2.md",
-    "_posts/2020-04-15-friction.md",
-    "_posts/2020-03-31-pandemic1.md"
+    "assets/images/profilepic.png",
+    "about/index.md",
+    "_posts/2020-07-07-sharvenium.com-V2.0.md",
+    "_posts/2020-05-24-book-review-5-outliers-by-malcolm-gladwell.md",
+    "_posts/2020-05-18-tech-independence.md"
   ]
 }
