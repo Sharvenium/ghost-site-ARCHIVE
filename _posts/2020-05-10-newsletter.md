@@ -8,6 +8,7 @@ date: 2020-05-10T15:59:32+08:00
 tags: Personal
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 I have recently started my weekly email newsletter called &#8220;Sunday Stories&#8221; which you can sign up for and view previous issues [here.](http://sharvenium.substack.com)
 

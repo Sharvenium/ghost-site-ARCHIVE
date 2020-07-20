@@ -8,6 +8,7 @@ date: 2020-05-24T14:22:53+08:00
 tags: BookNotes
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 I have seen Outliers by Malcolm Gladwell being quoted many times for its 10,000 hour rule to master a skill and I was intrigued. The Wikipedia description convinced me further. &#8220;In Outliers, Gladwell examines the factors that contribute to high levels of success&#8221;. As a self-help junkie, I jumped right on and finished this book in two days. I was going in with low expectations as I expected it to be a repetition of all the business books and biographies that I have read before. Like Shoe Dog by Phil Knight, Elon Musk by Ashlee Vance or Steve Jobs by Walter Isaacson.
 

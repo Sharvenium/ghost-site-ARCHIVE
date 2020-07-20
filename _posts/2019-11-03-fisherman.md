@@ -8,6 +8,8 @@ date: 2019-11-03T12:00:19+08:00
 tags: Life Advice
 class: post-template
 subclass: 'post'
+author: sharvenium
+
 ---
 Today, I would like to share a parable ( a simple story used to illustrate a moral or spiritual lesson ) that I first found out about in The 4-Hour Workweek which is written by Tim Ferris who is an entrepreneur and well known Author.
 

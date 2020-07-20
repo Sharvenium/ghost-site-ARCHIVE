@@ -8,6 +8,7 @@ date: 2020-04-16T01:00:00+08:00
 tags: Personal
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 I have fallen into the world of iPhone home screen set-ups. Yes, this is different from my usual posts because I have more free time due to the current lockdown for Covid-19. I have fallen deep into the rabbit hole which is iPhone home screen set-ups. 
 

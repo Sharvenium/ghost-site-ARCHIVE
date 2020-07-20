@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about/index.md",
+            "file": "_posts/2020-01-17-anything-you-want.md",
             "mode": "source"
           }
         }
@@ -72,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "about/index.md",
     "_posts/2020-01-17-anything-you-want.md",
-    "assets/images/profilepic.png",
     "_posts/2020-07-07-sharvenium.com-V2.0.md",
-    "_posts/2020-05-24-book-review-5-outliers-by-malcolm-gladwell.md"
+    "_posts/2020-05-24-book-review-5-outliers-by-malcolm-gladwell.md",
+    "_posts/2020-05-18-tech-independence.md",
+    "_posts/2020-05-11-my-journey-with-roam-research.md"
   ]
 }

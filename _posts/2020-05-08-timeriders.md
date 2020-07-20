@@ -8,6 +8,7 @@ date: 2020-05-08T09:43:56+08:00
 tags: BookNotes
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 Rating: 5/5
 Recommendation: READ ALL NINE BOOKS

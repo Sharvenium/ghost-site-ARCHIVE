@@ -8,6 +8,7 @@ date: 2020-05-11T15:43:40+08:00
 tags: Productivity
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 Every other month, Tech Twitter finds a brand new note-taking application that is clearly better than all others. However, about once a year there is a king of Note-Taking applications. Last year it was Notion and this year it is Roam Research.
 

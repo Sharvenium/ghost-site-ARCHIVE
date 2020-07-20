@@ -8,6 +8,7 @@ date: 2020-01-04T19:02:14+08:00
 tags: Productivity
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
   Compression vs Context is something that I stumbled upon when reading a Praxis Blog Post about Progressive Summarization.
 

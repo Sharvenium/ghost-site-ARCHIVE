@@ -8,6 +8,7 @@ date: 2020-02-16T13:03:57+08:00
 tags: LifeAdvice
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 You have probably had a moment in your life where you wanted to buy something that would without a doubt change your life for the better and that would allow you to be the next Elon Musk and bring you infinite amounts of joy like that $1000 Productivity Machine of a iPhone.
 

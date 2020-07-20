@@ -8,6 +8,7 @@ date: 2020-07-07T14:22:53+08:00
 tags: Tech
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 
 For the first time, I am writing this blog post in my local note-taking app. I used to use wordpress to write my blogs and _"design"_ my site using cool free themes that I find on the internet. But today, I have decided to take my first voyage into being tech independent and decided to create the entire site myself with help from the Jekyll static site builder. 

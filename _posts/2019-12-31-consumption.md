@@ -8,6 +8,7 @@ date: 2019-12-31T14:04:36+08:00
 tags: Creative
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 The idea for this blog post came from the realization that I like most other people **consume a lot of content daily**. I listen to audiobooks and podcasts, watch YouTube videos and documentaries, read blog posts, books and newsletters almost every single day.
 

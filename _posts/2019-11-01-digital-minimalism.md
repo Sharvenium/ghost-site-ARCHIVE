@@ -8,6 +8,8 @@ date: 2019-11-01T15:58:51+08:00
 tags: Book Notes
 class: post-template
 subclass: 'post'
+author: sharvenium
+
 ---
 Have you ever realised that our mobile phones are like slotmachines in our pockets. The moment you open your phone, all your apps are inviting you to click on them due to the colourful icons and bright red notifications so that you spend more time using their service.
 

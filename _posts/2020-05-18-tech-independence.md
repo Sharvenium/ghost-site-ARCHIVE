@@ -8,6 +8,7 @@ date: 2020-05-18T16:37:34+08:00
 tags: Tech
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 This post was inspired by <a href="http://sivers.org" target="_blank" rel="noreferrer noopener">Derek Sivers</a>.
 Google, Amazon, Microsoft, Apple, Samsung. What do they all have in common? They all have your data.

@@ -8,6 +8,7 @@ date: 2019-12-26T10:53:45+08:00
 tags: LifeAdvice
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 Minimalism. The Disciplined Pursuit of Less. Less is More. The Vital Few VS The Trivial Many. Minimalism is a topic that is trending nowadays on the internet with many people showing their total waste from 3 years in one Mason Jar or a house with only one table, chair, bed and cabinet. 
 
