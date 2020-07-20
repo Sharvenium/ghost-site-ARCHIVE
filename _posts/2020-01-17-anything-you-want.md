@@ -8,6 +8,7 @@ date: 2020-01-17T19:08:12+08:00
 tags: BookNotes
 class: post-template
 subclass: 'post'
+author: sharvenium
 ---
 # Thoughts about the book
 So far when I read books about a certain company or about how to start a business, it starts off as a story of a brilliant idea by the founder who later shared it with a group of friends in a small apartment or coffee shop, this idea later funded by the local billionaire or friend starts to grow rapidly and facing tons of problems before it eventually becomes a household name like Twitter, Amazon and Netflix. However this book was different.

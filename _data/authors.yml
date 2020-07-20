@@ -8,6 +8,17 @@ ghost:
   facebook: ghost
   twitter: tryghost
   cover: False
+sharvenium: 
+  username: sharvenium
+  name: Sharvenium
+  location: Singapore
+  url_full: https://sharvenium.com/about
+  url: sharvenium.com
+  bio: Writer, Programmer, Student. I write articles about tech, productivity and other things that I learnt. I also share my book notes and ideas here. 
+  picture: assets/images/profilepic.png
+  facebook: zuck
+  twitter: sharvenium
+  cover: assets/images/mountainnight.jpg
 hannah:
   username: hannah
   name: Hannah Wolfe
