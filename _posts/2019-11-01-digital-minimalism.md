@@ -5,7 +5,7 @@ cover: assets/images/iphone.jpg
 navigation: True
 title: Digital Minimalism by Cal Newport
 date: 2019-11-01T15:58:51+08:00
-tags: Book Notes
+tags: BookNotes
 class: post-template
 subclass: 'post'
 author: sharvenium
