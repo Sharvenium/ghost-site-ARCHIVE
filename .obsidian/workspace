@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-01-17-anything-you-want.md",
+            "file": "_posts/2020-05-24-outliers.md",
             "mode": "source"
           }
         }
@@ -46,7 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462
+    "width": 275
   },
   "right": {
     "id": "a02f20a35f7e36b7",
@@ -72,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-01-17-anything-you-want.md",
-    "_posts/2020-07-07-sharvenium.com-V2.0.md",
+    "_posts/2020-05-24-outliers-by-malcolm-gladwell.md",
+    "_posts/2019-11-01-digital-minimalism.md",
     "_posts/2020-05-24-book-review-5-outliers-by-malcolm-gladwell.md",
-    "_posts/2020-05-18-tech-independence.md",
-    "_posts/2020-05-11-my-journey-with-roam-research.md"
+    "_posts/2020-07-07-2.0.md",
+    "_posts/2020-07-03-hpmor.md"
   ]
 }
