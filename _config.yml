@@ -13,8 +13,8 @@ title: Sharvenium
 description: Writer, Programmer, Student
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo_dark: assets/images/site-logo.png
+favicon: assets/images/site-logo.png
 CNAME: sharvenium.com
 
 # Social info
