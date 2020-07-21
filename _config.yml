@@ -26,8 +26,8 @@ twitter: sharvenium # replace by your username
 facebook: sharvenium # replace by your username
 
 # Disqus
-disqus: False
-disqus_shortname: False # replace with your disqus username
+disqus: sharvenium
+disqus_shortname: Sharvenium # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-151135042-2  # replace with your GA tracking identifier
