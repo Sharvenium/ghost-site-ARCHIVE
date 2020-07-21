@@ -16,6 +16,6 @@ getting-started:
   cover: False
 BookNotes:
   name: booknotes
-  description: A collection of my Book Notes
+  description: A collection of my Book Notes.
   cover: assets/images/books.jpg
 
