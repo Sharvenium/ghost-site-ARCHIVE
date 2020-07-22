@@ -1,7 +1,7 @@
 ---
 layout: page
 current: now
-title: Now
+title:  📅 Now
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
