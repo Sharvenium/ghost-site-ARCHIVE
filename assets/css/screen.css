@@ -1927,3 +1927,13 @@ Usage (In Ghost editor):
         margin-left: 0;
     }
 }
+
+@media (prefers-color-scheme: dark) {
+    * {
+        background-color: #DBDBDB !important;
+    }
+    p, h1, h2, h3, h4, h6 { 
+        color: #2D2D2D !important;
+    }
+
+}
