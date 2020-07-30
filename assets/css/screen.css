@@ -1929,8 +1929,8 @@ Usage (In Ghost editor):
 }
 
 @media (prefers-color-scheme: dark) {
-    * {
-        background-color: #DBDBDB !important;
+    body {
+        background: #DBDBDB !important;
     }
     p, h1, h2, h3, h4, h6 { 
         color: #2D2D2D !important;
