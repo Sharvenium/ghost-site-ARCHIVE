@@ -1,7 +1,7 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 100 # it will paginate after this number
+paginate: 10 # it will paginate after this number
 language: 'en-uk'
 words_per_minute: 200
 
@@ -23,11 +23,11 @@ subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: sharvenium # replace by your username
-facebook: sharvenium # replace by your username
+facebook: epicsharvenium # replace by your username
 
 # Disqus
-disqus: sharvenium
-disqus_shortname: Sharvenium # replace with your disqus username
+disqus: 
+disqus_shortname:  # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-151135042-2  # replace with your GA tracking identifier
