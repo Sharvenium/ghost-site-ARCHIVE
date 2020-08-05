@@ -15,7 +15,7 @@ _Just a random order_
  - <a href="https://www.youtube.com/watch?v=ukLnPbIffxE&list=LL-rurif7Y01qNfH2-5N7ZzQ&index=72&t=0s"  target="_blank" >How to Study For Exams</a>
  - <a href="https://www.youtube.com/watch?v=PVTSEWAF-zc"  target="_blank" >How I Built 36 Products in College</a>
  - <a href="https://www.youtube.com/watch?v=5yZuaAQKnkY"  target="_blank" >Recreating Every Apple Wallpaper</a>
-- <a href="https://www.youtube.com/watch?v=BKCA8i4nWBI&list=LL-rurif7Y01qNfH2-5N7ZzQ&index=7&t=0s"  target="_blank" >The Question I Can't Stop Asking Myself]</a>
+- <a href="https://www.youtube.com/watch?v=BKCA8i4nWBI&list=LL-rurif7Y01qNfH2-5N7ZzQ&index=7&t=0s"  target="_blank" >The Question I Can't Stop Asking Myself</a>
  - <a href="https://www.youtube.com/watch?v=wpD36KRtCM0&list=LL-rurif7Y01qNfH2-5N7ZzQ&index=18&t=0s"  target="_blank" >Deliver A Feeling</a>
  - <a href="https://www.youtube.com/watch?v=9z8_YhWoq2o"  target="_blank" >I quit social media for 30 days</a>
  - <a href="https://www.youtube.com/watch?v=8cvhwquPqJ0"  target="_blank" >Becoming Superhuman with Iceman</a>
