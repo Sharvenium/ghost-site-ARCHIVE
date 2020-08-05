@@ -14,6 +14,7 @@ This is my favourites list. Updated regularly. Last Updated: 25th July 2020
 - [📩 Newsletters](newsletters)
 - [📝 Blogs](blogs)
 - [🎬 Movies](movies)
+- [📹 Videos](videos)
 - [📱 Apps](apps)
 - [🧙‍♂️ Quotes](quotes)
 - [⛅️ Mental Models](mentalmodels)
