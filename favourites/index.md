@@ -11,7 +11,7 @@ This is my favourites list. Updated regularly. Last Updated: 5th August 2020
 
 - [📚 Books](books)
 - [🎧 Podcasts](podcasts)
-- [📩 Newsletters](newsletters){target="_blank"}
+- [📩 Newsletters](newsletters)
 - [📝 Blogs](blogs)
 - [🎬 Movies](movies)
 - [📹 Videos](videos)
