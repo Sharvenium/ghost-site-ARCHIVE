@@ -55,8 +55,7 @@ into the {body} of the default.hbs template -->
             <!-- Email subscribe form at the bottom of the page -->
             {% if site.subscribers %}
                 <section class="subscribe-form">
-                    <h4 class="subscribe-form-title">Subscribe to my Newsletter</h4>
-                    <p>Get the latest insights delivered right to your inbox</p>
+                    <h4 class="subscribe-form-title" style="margin-bottom: 10px">Subscribe to my Newsletter</h4>
                     {% include subscribe-form.html placeholder="youremail@example.com" %}
                 </section>
             {% endif %}
