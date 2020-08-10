@@ -7,7 +7,7 @@ logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
-This is my favourites list. Updated regularly. Last Updated: 5th August 2020
+This is my favourites list. Updated regularly. Last Updated: 10th August 2020
 
 - [📚 Books](books)
 - [🎧 Podcasts](podcasts)
