@@ -39,6 +39,7 @@
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
         {{ content }}
+        <div style="margin: auto !important; width: 40%!important;">{% include subscribe-form.html placeholder="youremail@example.com" %}</div>
 
         <!-- Previous/next page links - displayed on every page -->
         {% if paginator.total_posts > site.paginate %}

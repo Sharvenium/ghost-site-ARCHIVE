@@ -21,10 +21,15 @@ into the {body} of the default.hbs template -->
                 {% endif %}
             </h1>
             <h2 class="site-description" style="font-size: 3rem">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
+
         </div>
         {% include site-nav.html %}
     </div>
+
 </header>
+ {% if site.subscribers %}
+                    {% include sub-form.html placeholder="youremail@example.com" %}
+            {% endif %}
 
 <!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">

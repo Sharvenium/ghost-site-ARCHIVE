@@ -1049,7 +1049,7 @@ Usage (In Ghost editor):
 /* ---------------------------------------------------------- */
 
 .subscribe-form {
-    margin: 1.5em 0;
+    margin: 0;
     padding: 6.5vw 7vw 7vw;
     border: color(var(--whitegrey) l(+2%)) 1px solid;
     text-align: center;
