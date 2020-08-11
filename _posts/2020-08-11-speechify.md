@@ -15,7 +15,7 @@ Have you ever wanted to read something but experienced problems with reading or 
 
 **Speechify** is for you. It was founded by student Cliff Weitzman who loves to read books. 
 
-However, he has a learning difficulty called dyslexia which makes it hard for him to read. But with <a href="https://getspeechify.com" target="_blank">Speechify</a> he is able to read 100 books a year! 😲
+However, he has a learning difference called dyslexia which makes it hard for him to read. But with <a href="https://getspeechify.com" target="_blank">Speechify</a> he is able to read 100 books a year! 😲
 
 Speechify helps by reading out text to you in a natural human voice. This allows you to **read faster**, **retain more information** and **save more time**.
 
