@@ -56,7 +56,7 @@ However, If you want more features such as
 - translate between 60+ languages and accents
 - 24/7 customer service
 
-or support the amazing ⭐️ Speechify team ⭐️, you can buy their premium plan which starts at $30/month for the monthly plan and just a one time payment of $140 (There is a 60% discount going on NOW) for the yearly plan. 
+or support the amazing ⭐️ Speechify team ⭐️, you can buy their premium plan which starts at $30/month for the monthly plan and just a one time payment of $140 for the yearly plan. 
 
 ## Conclusion
 
