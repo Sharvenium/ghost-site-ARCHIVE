@@ -8,6 +8,8 @@ class: page-template
 subclass: 'post page'
 ---
 
+_Most Impactful books bolded_
+
 # Non-Fiction
 
 - 📱 Digital Minimalism by Cal Newport
@@ -17,11 +19,16 @@ subclass: 'post page'
 - 😃 Anything You Want by Derek Sivers
 - 🇿🇦 Born a Crime by Trevor Noah
 - 🧙‍♂️ The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga
+- 👨‍👨‍👦 Rich Dad, Poor Dad by Robert Kiyosaki
+
+
+# Biography/Autobiography/Memoir Books 
+
 - 🇺🇸 Becoming by Michelle Obama
 - 💼 Dreams from my Father by Barack Obama
 - 👟 Shoe Dog by Phil Knight
 - 🇸🇬 The Singapore Story by Lee Kuan Yew
-
+- 🗞 Benjamin Franklin: An American Life by Walter Isaacson
 
 # Fiction
 
