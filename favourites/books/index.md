@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-_Most Impactful books bolded_
+You can checkout my [Goodreads](https://www.goodreads.com/user/show/68169706-sharvenium) profile for all the books I have ever read in my life. 🤓📚
 
 # Non-Fiction
 
@@ -22,7 +22,7 @@ _Most Impactful books bolded_
 - 👨‍👨‍👦 Rich Dad, Poor Dad by Robert Kiyosaki
 
 
-# Biography/Autobiography/Memoir Books 
+# Biographies/Memoirs 
 
 - 🇺🇸 Becoming by Michelle Obama
 - 💼 Dreams from my Father by Barack Obama
