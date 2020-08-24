@@ -7,15 +7,17 @@ logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
-Exams Soon. 📝
-Reading and listening to Books. 📚🎧
-Speaking about stuff I learnt from books. 🗣
-Exercising Almost Daily. 💪
-Reflecting on Poor Sleeping Habits by reading Why We Sleep by Matthew Walked on Speechify. 🥱
-Writing over at getspeechify.com/blog too. 🤩
-:)
+- Exams Soon. 📝
+- Reading and listening to Books. 📚🎧
+- Speaking about stuff I learnt from books. 🗣
+- Exercising Almost Daily. 💪
+- Reflecting on Poor Sleeping Habits by reading Why We Sleep by Matthew Walked on Speechify. 🥱
+- Writing over at getspeechify.com/blog too. 🤩
+- :)
 
-Hope to get back into web dev, design and iOS dev soon. 👨🏾‍💻
+
+### Future
+- Hope to get back into web dev, design and iOS dev soon. 👨🏾‍💻
 
 **Last Updated 24th August**
 
