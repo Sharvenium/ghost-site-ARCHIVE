@@ -11,7 +11,7 @@ subclass: 'post page'
 - Reading and listening to Books. 📚🎧
 - Speaking about stuff I learnt from books. 🗣
 - Exercising Almost Daily. 💪
-- Reflecting on Poor Sleeping Habits by reading Why We Sleep by Matthew Walked on Speechify. 🥱
+- Reflecting on Poor Sleeping Habits by reading Why We Sleep by Matthew Walker on [Speechify](https://getspeechify.com). 🥱
 - Writing over at getspeechify.com/blog too. 🤩
 - :)
 
