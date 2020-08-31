@@ -7,7 +7,7 @@ logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
-<img src="{{site.baseurl}}assets/images/profilepic.png" alt="profilepic">
+<img src="{{site.baseurl}}assets/images/profilepic.jpg" alt="profilepic">
 
 <p style="text-align:center;">Hey there, welcome to my corner on the internet</p>
 
