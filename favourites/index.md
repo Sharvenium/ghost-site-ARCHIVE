@@ -10,6 +10,7 @@ subclass: 'post page'
 This is my favourites list. Updated regularly. Last Updated: 19th August 2020
 
 - [📚 Books](books)
+- [💫 Values](values)
 - [🎧 Podcasts](podcasts)
 - [📩 Newsletters](newsletters)
 - [📝 Blogs](blogs)
