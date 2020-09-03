@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
- <img src="assets/images/profilepic.png" alt="Epic picture of me">
+ <img src="assets/images/profilepic.png" alt="Epic picture of me" style="max-width: 500px;">
 
 <p style="text-align:center;">Hey there, welcome to my corner on the internet</p>
 
