@@ -10,6 +10,8 @@ subclass: 'post page'
 
 You can checkout my [Goodreads](https://www.goodreads.com/user/show/68169706-sharvenium) profile for all the books I have ever read in my life. 🤓📚
 
+You can also checkout my [book notes](https://www.notion.so/sharvenium/69b2e30dee524d7191fd6d3695e929c4?v=b19e5ca9f483410bb127cde07dd03921) for almost all the books I have ever read.  
+
 # Non-Fiction
 
 - 📱 Digital Minimalism by Cal Newport
