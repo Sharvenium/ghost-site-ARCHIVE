@@ -78,7 +78,7 @@ Maybe in the future each book will have its own page with notes. [Email me](mail
 -	☠️ The Pirate Kings (TimeRiders)	by	Alex Scarrow
 -	🌃 City of Shadows (TimeRiders)	by	Alex Scarrow
 -	💀 The Doomsday Code (TimeRiders)	by	Alex Scarrow
--	🤬 The Subtle Art of Not Giving a Fuck	by	Mark Manson
+-	🤬 The Subtle Art of Not Giving a F*ck	by	Mark Manson
 -	🎨 Show Your Work	by	Austin Kleon
 -	📒 Make it Stick	by	Peter C. Brown
 -	✅ Getting Things Done	by	David Allen
