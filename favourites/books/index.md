@@ -43,6 +43,14 @@ A list of my favourite books in each category. The whole list of books I have re
 # List of all the books I have read (110+)
 Still missing a few from when I was in primary school but slowly adding in stuff. The books at the top are the books that I have read recently/ am reading now. 
 
+Also if you are reading this, you probably have read lots of books. I suggest you to also have a favourite books page and a list of all the books that you have ever read. Although it might take a while, it will be cool 😎. Here are some cool people that do this. 
+
+- [Derek Siver's Book Notes](https://sive.rs/book)
+- [Sahil Lavingia's Recommended Books](https://www.notion.so/Sahil-s-Recommended-Books-11f285f4bba6471f9d2cd19dd7c1f4d1)
+- [Valentin Perez's Book Notes](https://www.notion.so/My-Book-Notes-f7778ffb7914431c9cb2aabf1b8ce880)
+- [Tommy Collison's Bookshelf](https://tommycollison.com/books)
+- [Patrick Collison's Bookshelf](https://patrickcollison.com/bookshelf)
+
 Maybe in the future each book will have its own page with notes. [Email me](mailto:sharvenium@gmail.com) any recommendations and any thoughts about the books as always. :)
 
 -   🇺🇸 Alexander Hamilton	by	Ron Chernow
