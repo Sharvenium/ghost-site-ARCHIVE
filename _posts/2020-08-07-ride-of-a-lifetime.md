@@ -11,7 +11,7 @@ subclass: 'post'
 author: sharvenium
 ---
  
-This book was recommended by [Ali Abdaal](https://aliabdaal.com/). The Ride of a Lifetime is a memoir by the CEO of Disney, Bob Iger. I listened to this at 3x speed on Libby, learned many lessons and got a tiny glimpse into what life as a CEO is like in a huge coroporation. 
+The Ride of a Lifetime is a memoir by the CEO of Disney, Bob Iger. I listened to this at 3x speed on Libby, learned many lessons and got a tiny glimpse into what life as a CEO is like in a huge coroporation. 
 
 This book is mainly about leadership and the situations that Iger faced while being the CEO of Disney and ABC Television and the subsequent lessons that he learnt from them. The stories in this book were amazing and really touching. For example, the story about how Disney acquired Pixar and Marvel Entertainment. Also the story about his close friendship with Steve Jobs was really fasinating to read about. 
 
