@@ -8,6 +8,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-Notes will be coming soon! Please check again in a few hours. 
-
-~ Sharvesh :D
+404

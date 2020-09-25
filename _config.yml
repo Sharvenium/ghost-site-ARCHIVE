@@ -1,7 +1,7 @@
 # Jekyll configuration
 markdown: kramdown
 highlighter: rouge
-paginate: 100 # it will paginate after this number
+paginate: 7 # it will paginate after this number
 language: 'en-uk'
 words_per_minute: 200
 
@@ -12,8 +12,8 @@ baseurl: /
 title: Sharvenium
 description: Writer, Programmer, Student
 cover: assets/images/wallpaper.jpg
-logo: 
-logo_dark: 
+logo: assets/images/favicon.png
+logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: sharvenium.com
 
