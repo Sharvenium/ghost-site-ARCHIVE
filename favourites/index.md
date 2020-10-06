@@ -9,7 +9,7 @@ subclass: 'post page'
 ---
 This is my favourites list. Updated regularly. 
 
-- [📚 Books](books)
+- [📚 Books](https://sharvenium.com/books)
 - [💫 Values](values)
 - [🎧 Podcasts](podcasts)
 - [📩 Newsletters](newsletters)

@@ -29,6 +29,7 @@ A list of my favourite books in each category. The whole list of books I have re
 - 👟 Shoe Dog by Phil Knight
 - 🇸🇬 The Singapore Story by Lee Kuan Yew
 - 🗞 Benjamin Franklin: An American Life by Walter Isaacson
+- 🏋️‍♂️ Total Recall by Arnold Schwarzenegger
 
 # Fiction
 
@@ -53,6 +54,7 @@ Also if you are reading this, you probably have read lots of books. I suggest yo
 
 Maybe in the future each book will have its own page with notes. [Email me](mailto:sharvenium@gmail.com) any recommendations and any thoughts about the books as always. :)
 
+-   💪 Total Recall by Arnold Schwarzenegger
 -   🇺🇸 Alexander Hamilton	by	Ron Chernow
 -	💫 Principles	by	Ray Dalio
 -	🌎 How to Save the World	by	David Cain
