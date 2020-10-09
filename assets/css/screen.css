@@ -264,8 +264,9 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: block;
     margin: 0;
     padding: 10px 12px;
-    color: #fff;
-    opacity: 0.8;
+    color: rgb(255, 255, 255);
+    opacity: 1;
+    font-weight: bolder;
 }
 
 .nav li a:hover {
