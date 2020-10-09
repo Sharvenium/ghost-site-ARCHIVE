@@ -21,6 +21,6 @@ subclass: 'post page'
 
 ## Get in Touch
 
-1. 💌 You can send an email to me at sharvenium@sharvenium.com where I answer every email
+1. 💌 You can send an email to me at sharvenium@gmail.com where I answer every email
 
 2. 🐦 You can contact me via [@Sharvenium](https://www.twitter.com/sharvenium) on twitter and most social media platforms.

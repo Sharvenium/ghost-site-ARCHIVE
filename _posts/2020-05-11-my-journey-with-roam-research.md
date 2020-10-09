@@ -32,6 +32,6 @@ Turns out Roam is not the only life wiki available. There are a tons of open sou
 
 I decided to start with TiddlyWiki and I will update my journey along the way with blog posts and YouTube videos about what I have learned and how to download this software. TiddlyWiki is quite difficult to understand at first since all the information is in blog posts and google group discussions instead of more visual platforms such as YouTube.
 
-Follow me @Sharvenium on twitter for updates and email sharvenium@sharvenium.com if you have anything to say. =)
+Follow me @Sharvenium on twitter for updates and email sharvenium@gmail.com if you have anything to say. =)
 
 You can also sign up for my new email newsletter over at sharvenium.substack.com 😀
