@@ -66,7 +66,7 @@ Sharvenium
 
 [Resonance Calendar by Ali Abdaal](https://www.youtube.com/watch?v=lKYBB-Uw1IM) &#8211; A simple way to start building your second brain using noiton
 
-[Hack Your Habits](https://sharvenium.com/hack-your-habits/) &#8211; A Blog by me about Habits
+[Hack Your Habits](https://sharvesh.com/hack-your-habits/) &#8211; A Blog by me about Habits
 
 [GaryVee YT Channel](https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw) &#8211; Gary Vaynerchuck is an entrepreneur, author, speaker and internet personality
 

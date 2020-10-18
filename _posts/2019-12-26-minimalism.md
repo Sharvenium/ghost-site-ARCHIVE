@@ -41,4 +41,4 @@ Sharvenium
 
 [Cal Newport Blog Post](https://www.calnewport.com/blog/2019/09/03/on-the-surprising-benefits-of-an-un-mobile-phone/)&#8211; The surprising benefits of an un-mobile phone
 
-¹ &#8211; I have a [video](https://www.youtube.com/watch?v=ToEo8cdQ2To) and [blog post](https://sharvenium.com/the-slotmachine-in-our-pockets/) about this book which you can read/watch
+¹ &#8211; I have a [video](https://www.youtube.com/watch?v=ToEo8cdQ2To) and [blog post](https://sharvesh.com/the-slotmachine-in-our-pockets/) about this book which you can read/watch

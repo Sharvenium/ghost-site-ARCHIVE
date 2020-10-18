@@ -63,5 +63,5 @@ Sharvenium
 </p>
 
 <p id="8342d2e6-d43c-4cdf-bcf6-ffefbb4b87a1" class="">
-  <a href="https://sharvenium.com/content-consumption/">Content Consumption</a> &#8211; A Blog post about content consumption written by me 😀
+  <a href="https://sharvesh.com/content-consumption/">Content Consumption</a> &#8211; A Blog post about content consumption written by me 😀
 </p>

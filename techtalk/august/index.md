@@ -18,7 +18,7 @@ These are the notes for digital detox session.
 
 ## Links of Articles
 
-- [Distraction Free Phone](https://sharvenium.com/iphone)
+- [Distraction Free Phone](https://sharvesh.com/iphone)
 - [Straits Times Article about Digital Device Usage](https://www.straitstimes.com/singapore/12hr-42min-connected-for-hours)
 - [Digital Minimalism Book Summary Video](https://www.youtube.com/watch?v=ToEo8cdQ2To)
 
