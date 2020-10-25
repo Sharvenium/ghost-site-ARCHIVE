@@ -11,9 +11,10 @@ subclass: 'post'
 author: sharvenium
 ---
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/Nc7IvmJesS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Bill Gates is one of the most fascinating people on the world. He founded Microsoft to revolutionize the way people think and interact with technology making him the richest man on the planet. Then he decided to start the Bill and Melinda Gates Foundation together with his wife Melinda to help people around the world by eradicating diseases such as Polio, giving people access to better drinking water, food, resources, education, empowering women and more. 
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/Nc7IvmJesS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The documentary "Inside Bill's Brain" offers us a look into the life of Bill Gates and what he has done to make the world a better place for everyone. 
 
