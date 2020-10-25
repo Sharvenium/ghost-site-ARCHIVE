@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-A list of my favourite books in each category. The whole list of books I have read is below too. :)
+A list of my favourite books in each category. The whole list of books I have in my bookshelf on my Kindle is below too. :)
 
 # Non-Fiction
 
@@ -44,7 +44,7 @@ A list of my favourite books in each category. The whole list of books I have re
 # List of all the books I have read (110+)
 Still missing a few from when I was in primary school but slowly adding in stuff. The books at the top are the books that I have read recently/ am reading now. 
 
-Also if you are reading this, you probably have read lots of books. I suggest you to also have a favourite books page and a list of all the books that you have ever read. Although it might take a while, it will be cool 😎. Here are some cool people that do this. 
+Also if you are reading this, you probably have read lots of books. I suggest you to also have a favourite books page and a list of all the books that you have ever read even if it is just a couple of pages. Although it might take a while, it will be cool 😎. Here are some cool people that do this. 
 
 - [Derek Siver's Book Notes](https://sive.rs/book)
 - [Sahil Lavingia's Recommended Books](https://www.notion.so/Sahil-s-Recommended-Books-11f285f4bba6471f9d2cd19dd7c1f4d1)
@@ -54,6 +54,25 @@ Also if you are reading this, you probably have read lots of books. I suggest yo
 
 Maybe in the future each book will have its own page with notes. [Email me](mailto:sharvenium@gmail.com) any recommendations and any thoughts about the books as always. :)
 
+
+
+-   
+-   📄 Essentialism by Greg McKeown
+-   🔭 Moonwalking with Einstein by Joshua Foer 
+-   ⚛️ Einstein by Walter Isaacson
+-   😊 Happy by Derren Brown
+-   📎 Deep Work by Cal Newport
+-   📝 How to Take Smart Notes by Sönke Ahrens
+-   💩 Everything is F*cked by Mark Manson
+-   💍 Lord of the Rings by J.R.R Tolkien
+-   😁 The Courage to Be Happy by Fumitake Koga and Ichiro Kishimi
+-   ♥️ The Heart is the Bottleneck by Tiago Forte
+-   🕺 Superhuman Social Skills by Tynan
+-   🌎 21 Lessons for the 21st Century
+-   👨🏾‍💻 Remote by DHH and Jason Fried
+-   🌴 The 4-Hour Work Week by Tim Ferriss
+-   🛠 Tools of Titan by Tim Ferriss
+-   🧠 The Almanack of Naval Ravikant
 -   💪 Total Recall by Arnold Schwarzenegger
 -   🇺🇸 Alexander Hamilton	by	Ron Chernow
 -	💫 Principles	by	Ray Dalio
