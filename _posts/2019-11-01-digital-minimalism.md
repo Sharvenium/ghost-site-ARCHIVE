@@ -13,6 +13,8 @@ author: sharvenium
 ---
 Have you ever realised that our mobile phones are like slotmachines in our pockets. The moment you open your phone, all your apps are inviting you to click on them due to the colourful icons and bright red notifications so that you spend more time using their service.
 
+<iframe width="960" height="540" src="https://www.youtube.com/embed/ToEo8cdQ2To" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 It’s like walking along a busy street where all the shop owners are calling out your name wanting you to spend as much time as possible in their store so that buy the many products that they are selling.
 
 ‘Billions of dollars have been invested to try and figure out how to get you to look compulsively at your phone screen’ says [Cal Newport](http://calnewport.com) (Author of the book Digital Minimalism) in an interview with GMA. For example in 2010, Facebook added the like button to its platform. This simple feature is a form of social approval that has been present in our society since the beginning of social interaction.
