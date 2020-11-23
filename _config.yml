@@ -2,7 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
-language: 'en-uk'
+language: "en-uk"
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -10,10 +10,10 @@ baseurl: /
 
 # Website info
 title: Sharvesh
-description: Writer, Programmer, Student
+description: Hi I'm Sharvesh. I'm a Writer, YouTuber and Student + Teenager learning and creating stuff on the Internet.
 cover: assets/images/mountainnight.jpg
-logo: 
-logo_dark: 
+logo:
+logo_dark:
 favicon: assets/images/favicon.png
 CNAME: sharvesh.com
 
@@ -26,11 +26,11 @@ twitter: sharvenium # replace by your username
 facebook: epicsharvenium # replace by your username
 
 # Disqus
-disqus: 
-disqus_shortname:  # replace with your disqus username
+disqus:
+disqus_shortname: # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-151135042-2  # replace with your GA tracking identifier
+google_analytics: UA-151135042-2 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -72,8 +72,8 @@ repo: sharvenium.github.io
 branch: master
 relative_source: ../
 destination: ../_site
-production_url:  https://sharvesh.com/
-source_url:  https://github.com/sharvenium/sharvenium.github.io
+production_url: https://sharvesh.com/
+source_url: https://github.com/sharvenium/sharvenium.github.io
 
 exclude:
   - assets/css
