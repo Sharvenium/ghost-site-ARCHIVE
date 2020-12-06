@@ -4,7 +4,7 @@ current: post
 cover: assets/images/superpower.jpeg
 navigation: True
 title: Yield Luck Using This Superpower
-date: 2020-11-22T16:00:55+08:00
+date: 2020-12-05T16:00:55+08:00
 tags: Personal
 class: post-template
 subclass: "post"
@@ -41,3 +41,5 @@ But while ‘Pure Random Luck’ does play a factor, you can increase the chance
 PewDiePie and Mr Beast arent lucky. They created luck by posting thousands of videos and eventually blew up and got an “overnight success”.
 
 You can create luck by being consistent.
+
+_💌 This post orginally appeared in my email newsletter. Subscribe below 👇_

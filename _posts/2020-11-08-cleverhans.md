@@ -11,8 +11,6 @@ subclass: "post"
 author: sharvenium
 ---
 
-Hey friends,
-
 In the early 1900s, a horse called “Clever Hans” became a German celebrity for being able to understand the German language and do math.
 
 A horse? Here’s how
@@ -28,3 +26,5 @@ The closer he was to the correct number, the humans became more and more tense. 
 Clever Hans had won. 🎠
 
 Thanks for reading and if you enjoyed this, consider sharing it with a friend :) or subscribing
+
+_💌 This post orginally appeared in my email newsletter. Subscribe below 👇_
