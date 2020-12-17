@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/superpower.jpeg
 navigation: True
-title: Yield Luck Using This Superpower
+title: Create Luck Using This Superpower
 date: 2020-12-05T16:00:55+08:00
 tags: Personal
 class: post-template
