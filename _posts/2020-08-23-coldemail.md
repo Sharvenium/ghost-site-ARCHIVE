@@ -4,7 +4,7 @@ current: post
 cover: assets/images/gmail.jpeg
 navigation: True
 title: The Insane Powers of Cold Email
-date: 2020-23-08T16:00:55+08:00
+date: 2020-08-23T16:00:55+08:00
 tags: LifeAdvice
 class: post-template
 subclass: "post"

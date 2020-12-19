@@ -4,7 +4,7 @@ current: post
 cover: assets/images/forrestli.png
 navigation: True
 title: The Man Behind Shopee and Garena Free Fire - Forrest Li Life
-date: 2020-10-12T16:00:55+08:00
+date: 2020-12-10T16:00:55+08:00
 tags: LifeAdvice
 class: post-template
 subclass: "post"
