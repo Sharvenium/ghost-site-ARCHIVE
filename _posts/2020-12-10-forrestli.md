@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/forrestli.png
+cover: assets/images/shopee.jpg
 navigation: True
 title: The Man Behind Shopee and Garena Free Fire - Forrest Li Life
 date: 2020-12-10T16:00:55+08:00
@@ -10,6 +10,8 @@ class: post-template
 subclass: "post"
 author: sharvenium
 ---
+
+<iframe width="960" height="540" src="https://www.youtube.com/embed/JobGqv6u60s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Do you know what's the richest/biggest company in Singapore today!?
 

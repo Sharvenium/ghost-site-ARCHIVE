@@ -1,25 +1,18 @@
 ---
 layout: page
 current: now
-title:  📅 Now
+title: 📱 Teen Tech Talk 📣
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: "assets/images/ghost.png"
 class: page-template
-subclass: 'post page'
+subclass: "post page"
 ---
-- Exams Soon. 📝
-- Reading and listening to Books. 📚🎧
-- Speaking about stuff I learnt from books. 🗣
-- Exercising Almost Daily. 💪
-- Reflecting on Poor Sleeping Habits by reading Why We Sleep by Matthew Walker on [Speechify](https://getspeechify.com). 🥱
-- Writing over at getspeechify.com/blog too. 🤩
-- :)
 
+Hey! Here you can find all the resources for "Teen Tech Talk". Sign up for Teen Tech Talk over [here](https://teentechtalk.substack.com)
 
-### Future
-- Hope to get back into web dev, design and iOS dev soon. 👨🏾‍💻
+Its organised by me together with Tampines Changkat CC and Zone Eight Resident's Network and hosted by me. Learn more about Teen Tech Talk over [here](https://www.facebook.com/TCZN8RN).
 
-**Last Updated 24th August**
-
-_This is my now page. Inspired by [Derek Sivers](https://sivers.org/now)_
-
+- [📱 Digital Detox](digital-detox)
+- [💤 Lost Sleep](sleep)
+- [💰 Decoding Billionaire](billionaire)
+- [🧪 Rise of STEM](stem)
