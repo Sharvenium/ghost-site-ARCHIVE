@@ -11,13 +11,9 @@ subclass: "post"
 author: sharvenium
 ---
 
+Do you know what's the richest/biggest company in Singapore today!? Who is Forrest Li!? He is the founder of Garena Free Fire, Call of Duty Mobile, and Shoppe which is all under Sea Limited which is the most valued company in Singapore today.
+
 <iframe width="960" height="540" src="https://www.youtube.com/embed/JobGqv6u60s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Do you know what's the richest/biggest company in Singapore today!?
-
-Who is Forrest Li!?
-
-He is the founder of Garena Free Fire, Call of Duty Mobile, and Shoppe which is all under Sea Limited which is the most valued company in Singapore today.
 
 According to the Forbes billionaire list, He has a current net worth of almost $10 billion dollars which he made in just a decade and is the 5th richest person in Singapore.
 
