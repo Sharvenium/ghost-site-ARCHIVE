@@ -1,7 +1,7 @@
 ---
 layout: page
 current: now
-title: 📱 Teen Tech Talk 📣
+title: 📱 Community Sharing 📣
 navigation: true
 logo: "assets/images/ghost.png"
 class: page-template
