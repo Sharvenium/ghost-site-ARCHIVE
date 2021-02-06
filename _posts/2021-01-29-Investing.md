@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/money.jpg
 navigation: True
-title: How to Start Investing for Begineers 2021
+title: How to Start Investing for Beginners 2021
 date: 2021-01-29T16:00:55+08:00
 tags: Investing
 class: post-template
