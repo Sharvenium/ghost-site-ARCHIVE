@@ -32,15 +32,15 @@ To buy a stock, you need to do so through a brokerage, in the olden ages before 
 
 # Mutual Funds
 
-    If you have searched around about investing, you have likely came across this term called A mutual fund. In simple words, it is  is a company that brings together money from many people and invests it in stocks, bonds or other assets. The combined holdings of stocks, bonds or other assets the fund owns are known as its portfolio. Each investor in the fund owns shares, whicxh represent a part of these holdings. So for the company invests 10% of the people money in Google stocks, the person has 10% of their money in Google stocks but what they did was only to give their money to the company, thus out of the profits the company usually takes 1 - 2% of the profit as commission for helping people to invest.
+If you have searched around about investing, you have likely came across this term called A mutual fund. In simple words, it is  is a company that brings together money from many people and invests it in stocks, bonds or other assets. The combined holdings of stocks, bonds or other assets the fund owns are known as its portfolio. Each investor in the fund owns shares, whicxh represent a part of these holdings. So for the company invests 10% of the people money in Google stocks, the person has 10% of their money in Google stocks but what they did was only to give their money to the company, thus out of the profits the company usually takes 1 - 2% of the profit as commission for helping people to invest.
 
 # ETFs
 
-     if you are someone who prefers lower investment minimums, an ETF might be a better option than mutual funds. ETF is similar to mutual funds in the regard that they are both are professionally managed collections of stocks and individual bonds. Also, ETF provide real-time pricing which allow you to give you more control price. An additional fact is that most ETFs are index funds or known as passive investments
+If you are someone who prefers lower investment minimums, an ETF might be a better option than mutual funds. ETF is similar to mutual funds in the regard that they are both are professionally managed collections of stocks and individual bonds. Also, ETF provide real-time pricing which allow you to give you more control price. An additional fact is that most ETFs are index funds or known as passive investments
 
 # Index Funds
 
-    Next up, index funds, what are they, index funds. An index fund is a portfolio of stocks or bonds designed to mimic the composition and performance of a financial market index. Index funds have lower expenses and fees than actively managed funds. Index funds follow a passive investment strategy. Commonly known Index funds are s and p 500, which is the top 500 companies in the US and if you are thinking that the top 500 companies wont change, you are incorrect, the companies that dont do well will be removed from the index, so you can be ensured that if you put your money in a trusted index fund your money wont be lost and only increase unless there is a financial crash, but according to data it will always increase even after a crash so if you investing in index funds dont take out your money fearing that it is going to crash as you it is recommended that you keep it as an long term investment. Also, all index funds are mutual funds but not all mutual funds are index funds.
+Next up, index funds, what are they, index funds. An index fund is a portfolio of stocks or bonds designed to mimic the composition and performance of a financial market index. Index funds have lower expenses and fees than actively managed funds. Index funds follow a passive investment strategy. Commonly known Index funds are s and p 500, which is the top 500 companies in the US and if you are thinking that the top 500 companies wont change, you are incorrect, the companies that dont do well will be removed from the index, so you can be ensured that if you put your money in a trusted index fund your money wont be lost and only increase unless there is a financial crash, but according to data it will always increase even after a crash so if you investing in index funds dont take out your money fearing that it is going to crash as you it is recommended that you keep it as an long term investment. Also, all index funds are mutual funds but not all mutual funds are index funds.
 
 # Passive vs Active Investing
 
@@ -76,7 +76,10 @@ What are dividends, Dividends are basically when a company distributes some of i
 
 # When Should You Invest?
 
-    A common investing rule of thumb is that before investing make sure you pay off all your debts and make sure to have emergency funds, the basic would be 3-6 months of your salary 
+A common investing rule of thumb is that before investing make sure you pay off all your debts and make sure to have emergency funds, the basic would be 3-6 months of your salary 
 
-    So that's the complete beginners guide to investing in the stock market, if you found this useful consider sharing this post or video and subscribing as only a really small percentage of viewers are actually subscribed and its free. 
+So that's the complete beginners guide to investing in the stock market, if you found this useful consider sharing this post and subscribing to my youtube channel!
+
+Thanks! 
+Sharvesh
 
