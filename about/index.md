@@ -15,12 +15,12 @@ subclass: 'post page'
 ## What I'm working on
 
 1. 🎓 I'm a student studying in Singapore 
-2. 🎥 I occasionally upload videos on my [YouTube Channel ](https://www.youtube.com/channel/UC-rurif7Y01qNfH2-5N7ZzQ)about tech, books and other cool nerdy stuff.
-3. 👨‍💻 On this website, I post articles at least once a week about life advice, productivity, book reviews and other creative stuff that I discover on the internet. 
-4. 📨 I also have a newsletter called "Sunday Stories" over at [substack](https://sharvenium.substack.com) where I share _things that I learnt that week_ and _interesting links that I found_. 
+2. 🎥 I upload videos on my [YouTube Channel ](https://www.youtube.com/channel/UC-rurif7Y01qNfH2-5N7ZzQ)about stocks, tech and cool apps.
+3. 👨‍💻 On this website, I post articles a few times a month about stocks, productivity, book reviews and other creative stuff that I discover on the internet. 
+4. 📨 I also have a newsletter at [substack](https://sharvenium.substack.com) where I share _things that I learnt that week_ and _videos or blogs_ that I published that week. . 
 
-## Get in Touch
+## Contact Me 
 
-1. 💌 You can send an email to me at sharvenium@gmail.com where I answer every email
+1. 💌 You can send an email to me at sharvenium@gmail.com where I answer every email (1 so far!)
 
 2. 🐦 You can contact me via [@Sharvenium](https://www.twitter.com/sharvenium) on twitter and most social media platforms.
