@@ -21,5 +21,7 @@ subclass: 'post page'
 
 **Last Updated 24th August**
 
+TESTING MY WEBSITE. HOPEFULLY GITHUB WORKS
+
 _This is my now page. Inspired by [Derek Sivers](https://sivers.org/now)_
 
