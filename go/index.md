@@ -13,5 +13,5 @@ subclass: 'post page'
 - [📸 Instagram](https://instagram.com/sharvenium)
 - [📝 Writing](https://sharvesh.com/)
 - [📮 Newsletter](https://sharvesh.substack.com/)
-- [💸 Medium Blog](https://medium.com/@sharevnium)
+- [💸 Medium Blog](https://medium.com/@sharvenium)
 
