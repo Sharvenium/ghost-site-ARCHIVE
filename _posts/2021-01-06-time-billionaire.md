@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/timebilly.jpeg
 navigation: True
-title: What is Ethereum? | Ethereum VS Bitcoin Cryptocurrencies
+title: Time Billionaire | Why Time is More Important than Money
 date: 2021-01-06T16:00:55+08:00
 tags: Personal
 class: post-template
