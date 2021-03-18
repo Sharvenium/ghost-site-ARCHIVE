@@ -12,7 +12,11 @@ author: sharvenium
 ---
 _This post was originally published in my email [newsletter](https://sharvenium.substack.com), Sunday Stories._
 
+
 I came across a useful mental model of thinking about self-improvement this week from Ali Abdaal . Many times, I think to myself "Why am I wasting time listening to all these productivity hacks and life advice when I can just do it?". Of course, I can't "Just Do It" because of my laziness but here is another way of thinking about it.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4dZoIUpmsM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Let's imagine life in three modes. The Pilot, Plane and Engineer
 
