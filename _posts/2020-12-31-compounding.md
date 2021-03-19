@@ -1,0 +1,14 @@
+---
+layout: post
+current: post
+cover: assets/images/buffet.png
+navigation: True
+title: How WARREN BUFFET MADE BILLIONS With Compound Interest
+date: 2020-12-31T16:00:55+08:00
+tags: Investing
+class: post-template
+subclass: "post"
+author: sharvenium
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CfXYLuR0bq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
