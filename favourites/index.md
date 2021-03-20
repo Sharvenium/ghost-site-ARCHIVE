@@ -10,7 +10,6 @@ subclass: 'post page'
 This is my favourites list. Updated regularly. 
 
 - [📚 Books](https://sharvesh.com/books)
-- [💫 Values](values)
 - [🎧 Podcasts](podcasts)
 - [📩 Newsletters](newsletters)
 - [📝 Blogs](blogs)
@@ -18,7 +17,6 @@ This is my favourites list. Updated regularly.
 - [📹 Videos](videos)
 - [📱 Apps](apps)
 - [🧙‍♂️ Quotes](quotes)
-- [⛅️ Mental Models](mentalmodels)
 
 
 
