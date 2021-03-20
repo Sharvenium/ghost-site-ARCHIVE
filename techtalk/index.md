@@ -16,5 +16,6 @@ Learn more about Teen Tech Talk over [here](https://www.facebook.com/TCZN8RN)on 
 - [Aug 2020 - 📱 Digital Detox](digital-detox)
 - [Sep 2020 - 💤 Lost Sleep](sleep)
 - [Nov 2020 - 💰 Decoding Billionaire](billionaire)
-- [Dec 2020 - 🧪 Rise of STEM](stem)
+- [Dec 2020 - 🧪 Rise of STEM](stem)]]
+- [Jan 2021 - 🚀 AI](404)
 
