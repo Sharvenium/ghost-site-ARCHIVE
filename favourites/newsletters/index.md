@@ -7,9 +7,8 @@ logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
-- Ali Abdaal's Newsletter
-- James Clear Newsletter
-- Khe Hy Rad Reads Newsletter
-- Mark Manson's Newsletter
-- David Perell's Newsletter
-- Anne-Laure Le Cunff's Newsletter
+I Dont Read Newsletters Anymore. 
+
+Except for morning brew - morningbrew.com/daily/r/?kid=0961d07f
+
+use this link pls.

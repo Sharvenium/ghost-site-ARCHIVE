@@ -8,11 +8,8 @@ class: page-template
 subclass: 'post page'
 ---
 
-- The Tim Ferriss Show
-- Not Overthinking by Ali Abdaal and Taimur Abdaal
-- Cortex by Relay FM
-- Mac Power Users by Relay FM
-- That Creative Life by Sara Dietschy
-- Derek Sivers Podcast
-- Noah Kagan Presents
-- My First Million
+- Not Overthinking 
+- Cortex by CGP Grey and Mike Hurley (Binge listened to everything during the lockdown of 2020)
+- My First Million (Love this)
+- Lex Fridman Podcast (The ones with Jason Calacanis and George Hotz were interesting)
+- All In Podcast 
