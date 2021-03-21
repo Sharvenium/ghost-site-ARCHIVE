@@ -11,7 +11,7 @@ baseurl: /
 # Website info
 title: Sharvesh
 description: Hi I'm Sharvesh. I write blogs, make YouTube videos and like learning and creating stuff. 
-cover: assets/images/mountainnight.jpg
+cover: assets/images/blog-cover.jpg
 logo:
 logo_dark:
 favicon: assets/images/favicon.png
