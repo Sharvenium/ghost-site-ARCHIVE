@@ -12,7 +12,9 @@ subclass: 'post page'
 Here are some of my best/most popular posts that you should start with :)
 
 - [📱 Tech Independence](https://sharvesh.com/tech-independence)
-- [🏛 My Journey with Roam Research](https://sharvesh.com/my-journey-with-roam-research)
-- [💻 Digital Minimalism](https://sharvesh.com/digital-minimalism)
+- [🏛 The Coming Great Depression VS Roaring 20s](https://sharvesh.com/depression21)
+- [💻 How I Quit Watching YouTube](https://sharvesh.com/yt)
 - [🌌 Special Exceptions](https://sharvesh.com/special-exceptions)
-- [😭 Dealing with Setbacks](https://sharvesh.com/setbacks)
+- [🎬 Is YouTube Shorts the New TikTok?](https://sharvesh.com/shorts)
+
+Last Updated 28th March 2021
