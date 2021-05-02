@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sharvesh.com
+Token: 69dabcaf5be27ceba28b3fdf244f94bda1ea6dac556cecbe661b6c051d7ff9bb
