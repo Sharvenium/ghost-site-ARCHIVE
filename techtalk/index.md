@@ -1,14 +1,14 @@
 ---
 layout: page
 current: now
-title: 📱 Community Sharing 📣
+title: Tech Talk
 navigation: true
 logo: "assets/images/ghost.png"
 class: page-template
 subclass: "post page"
 ---
 
-Hey! Here you can find all the resources for the "Teen Tech Talk" Community sharing event that I host together with Singapore's Tampines Changkat Community Club and Zone 8 RN. Sign up for Teen Tech Talk over [here](https://teentechtalk.substack.com)!
+Here you can find all the resources for the "Teen Tech Talk" Community sharing event that I host together with Singapore's Tampines Changkat Community Club and Zone 8 RN. Sign up for Teen Tech Talk over [here](https://teentechtalk.substack.com)!
 
 Learn more about Teen Tech Talk over [here](https://www.facebook.com/TCZN8RN)on Facebook.
 
